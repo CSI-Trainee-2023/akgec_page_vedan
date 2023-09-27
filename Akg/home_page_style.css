@@ -1,0 +1,17 @@
+.top-header{
+    border: 0px solid rgb(152, 230, 230);
+    border-radius: 50px;
+    background-color: #dfe7e7;
+}
+#clgName{
+    border: 0px solid black;
+    color: rgb(210, 152, 55);
+    margin-left: 404px;
+    padding: 2px 0px;
+}
+#logo{
+    border: 0px solid black;
+    float: left;
+    margin-left: 313px;
+    padding: 16px 2px;
+}
