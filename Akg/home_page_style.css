@@ -67,5 +67,45 @@ display: flex;
     color: #d57900
 }
 hr {
-    border-top: 4px solid yellow;
+    border-top: 4px solid aqua;
+}
+#ofc{
+    text-align: center;
+    text-decoration: none;
+    border-bottom: 4px solid yellow;
+    margin: 30px 615px;
+}
+.ourFeaCources {
+    display: flex;
+}
+.ourFeaCources1 {
+    border: 0px solid black;
+    margin-left: 100px;
+    margin-right: 942px;
+}
+.ourFeaCources2 {
+    border: 0px solid black;
+    margin-left: -850px;
+}
+#btechimg {
+    border-radius: 10px;
+}
+#mcaimg {
+    border-radius: 10px;
+}
+.ourFeaCources3 {
+    border: 0px solid black;
+    margin-left: 98px;
+}
+#mtechimg{
+    border-radius: 10px;
+}
+#placementid{
+    text-align: center;
+    text-decoration: none;
+    border-bottom: 4px solid yellow;
+    margin: 30px 643px;
+}
+#place{
+    text-align: center;
 }
