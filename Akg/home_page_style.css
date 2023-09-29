@@ -38,6 +38,9 @@ display: flex;
     margin-left: 447px;
     text-decoration: none;
 }
+#Lateral a{
+    text-decoration: none;
+}
 .about1 {
     display: flex;
     margin-left: 100px;
@@ -108,4 +111,26 @@ hr {
 }
 #place{
     text-align: center;
+}
+.logo1{
+    margin-left: 475px;
+    padding: 10px;
+}
+.logo2{
+    margin-left: 475px;
+    padding: 10px;
+}
+#viewplace{
+    border: 2px solid yellow;
+    background-color: yellow;
+    border-radius: 10px;
+    margin: 0px 620px;
+    height: 40px;
+}
+#viewplace a:hover{
+    color: white;
+    text-decoration: none;
+}
+#viewplace a{
+    text-decoration: none;
 }
