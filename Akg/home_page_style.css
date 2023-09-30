@@ -159,3 +159,16 @@ hr {
     margin-right: 2px;
     margin-left: 20px;
 }
+.note{
+    background-color: rgb(43, 41, 41);
+    color: whitesmoke;
+    text-align: center;
+    padding: 25px 0px;
+    border-radius: 15px;
+}
+.noticecon1{
+    text-align: center;
+}
+#noticecon2{
+    margin: 0px 227px;
+}
