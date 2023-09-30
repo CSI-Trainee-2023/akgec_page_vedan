@@ -173,6 +173,14 @@ hr {
     margin: 0px 227px;
 }
 .box{
-    border: 2px solid yellow;
+    border: 2px solid rgb(138, 190, 214);
     border-radius: 15px;
+    margin: 265px 500px;
+    padding: 20px;
+    color: whitesmoke;
+}
+#erp{
+    border: 2px solid red;
+    margin: 64px 4px;
+    background-color: red;
 }
