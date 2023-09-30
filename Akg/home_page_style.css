@@ -6,6 +6,10 @@
     border: 0px solid black;
     background-color: aqua;
 }
+.head{
+    background-color: rgb(225, 142, 17);
+    border-radius: 20px;
+}
 .main
 {
 display: flex;
@@ -16,6 +20,7 @@ display: flex;
 .navBar{
     background-color: rgb(226, 195, 201);
     border-radius: 20px;
+    margin-top: 25px;
 }
 .navBar ul{
     overflow: auto;
@@ -128,9 +133,29 @@ hr {
     height: 40px;
 }
 #viewplace a:hover{
-    color: white;
+    color: rgb(230, 155, 240);
     text-decoration: none;
 }
 #viewplace a{
     text-decoration: none;
+}
+.foot{
+    display: flex;
+    background-color: rgb(43, 41, 41);
+    color: whitesmoke;
+}
+.fo{
+    margin-top: 22px;
+    margin-right: 2px;
+    margin-left: 316px;
+}
+.ot{
+    margin-top: 2px;
+    margin-right: 2px;
+    margin-left: 20px;
+}
+.er{
+    margin-top: 2px;
+    margin-right: 2px;
+    margin-left: 20px;
 }
