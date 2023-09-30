@@ -172,3 +172,7 @@ hr {
 #noticecon2{
     margin: 0px 227px;
 }
+.box{
+    border: 2px solid yellow;
+    border-radius: 15px;
+}
