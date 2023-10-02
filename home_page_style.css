@@ -1,0 +1,185 @@
+.nameLogo
+{
+    margin: 0;
+    padding-left: 260px;
+    border-radius: 5px;
+    border: 0px solid #0f0e0e;
+    background-color: rgb(244, 246, 246);
+}
+.head{
+    border-radius: 20px;
+}
+.main
+{
+display: flex;
+}
+.clgName{
+    color: rgb(224, 150, 40);
+}
+.navBar{
+    background-color: rgb(226, 195, 201);
+    border-radius: 20px;
+    margin-top: 25px;
+}
+.navBar ul{
+    overflow: auto;
+}
+.navBar li{
+    float: left;
+    list-style: none;
+    margin: 6px 55px;
+}
+.navBar li a{
+    padding: 7px 7px;
+    text-decoration: none;
+}
+.navBar li a:hover{
+    color: yellow;
+}
+#Lateral{
+    border: 0px;
+    background: yellow;
+    margin-left: 447px;
+    text-decoration: none;
+}
+#Lateral a{
+    text-decoration: none;
+}
+.about1 {
+    display: flex;
+    margin-left: 100px;
+}
+#abt{
+    text-align: center;
+    text-decoration: none;
+    border-bottom: 4px solid yellow;
+    margin: 20px 630px;
+}
+.program {
+    border: 3px solid rgb(130, 124, 124);
+    margin-left: 660px;
+    margin-right: 600px;
+    margin-top: -120px;
+    padding-left: 10px;
+    border-radius: 15px;
+    color: #d57900
+}
+.student {
+    border: 3px solid rgb(130, 124, 124);
+    margin-left: 820px;
+    margin-right: 440px;
+    margin-top: -91.5px;
+    padding-left: 10px;
+    border-radius: 15px;
+    color: #d57900
+}
+hr {
+    border-top: 4px solid aqua;
+}
+#ofc{
+    text-align: center;
+    text-decoration: none;
+    border-bottom: 4px solid yellow;
+    margin: 30px 615px;
+}
+.ourFeaCources {
+    display: flex;
+}
+.ourFeaCources1 {
+    border: 0px solid black;
+    margin-left: 100px;
+    margin-right: 942px;
+}
+.ourFeaCources2 {
+    border: 0px solid black;
+    margin-left: -850px;
+}
+#btechimg {
+    border-radius: 10px;
+}
+#mcaimg {
+    border-radius: 10px;
+}
+.ourFeaCources3 {
+    border: 0px solid black;
+    margin-left: 98px;
+}
+#mtechimg{
+    border-radius: 10px;
+}
+#placementid{
+    text-align: center;
+    text-decoration: none;
+    border-bottom: 4px solid yellow;
+    margin: 30px 643px;
+}
+#place{
+    text-align: center;
+}
+.logo1{
+    margin-left: 475px;
+    padding: 10px;
+}
+.logo2{
+    margin-left: 475px;
+    padding: 10px;
+}
+#viewplace{
+    border: 2px solid yellow;
+    background-color: yellow;
+    border-radius: 10px;
+    margin: 0px 620px;
+    height: 40px;
+}
+#viewplace a:hover{
+    color: rgb(230, 155, 240);
+    text-decoration: none;
+}
+#viewplace a{
+    text-decoration: none;
+}
+.foot{
+    display: flex;
+    background-color: rgb(43, 41, 41);
+    color: whitesmoke;
+}
+.fo{
+    margin-top: 22px;
+    margin-right: 2px;
+    margin-left: 316px;
+}
+.ot{
+    margin-top: 2px;
+    margin-right: 2px;
+    margin-left: 20px;
+}
+.er{
+    margin-top: 2px;
+    margin-right: 2px;
+    margin-left: 20px;
+}
+.note{
+    background-color: rgb(43, 41, 41);
+    color: whitesmoke;
+    text-align: center;
+    padding: 25px 0px;
+    border-radius: 15px;
+}
+.noticecon1{
+    text-align: center;
+}
+#noticecon2{
+    margin: 0px 227px;
+}
+.box{
+    border: 2px solid rgb(138, 190, 214);
+    border-radius: 15px;
+    margin: 265px 500px;
+    padding: 20px;
+    color: whitesmoke;
+}
+#erp{
+    border: 2px solid red;
+    margin: 50px 4px;
+    background-color: red;
+}
