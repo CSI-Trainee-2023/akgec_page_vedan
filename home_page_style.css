@@ -8,6 +8,7 @@
 }
 .head{
     border-radius: 20px;
+    background-attachment: fixed;
 }
 .main
 {
